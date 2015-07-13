@@ -1,0 +1,1 @@
+Programa para obtener un número aleatorio.
